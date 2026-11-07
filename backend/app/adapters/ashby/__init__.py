@@ -1,0 +1,1 @@
+"""Ashby public job posting board adapter."""

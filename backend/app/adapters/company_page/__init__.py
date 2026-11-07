@@ -1,0 +1,1 @@
+"""Company career page adapter (HTML + JSON-LD parsing)."""

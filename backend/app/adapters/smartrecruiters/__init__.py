@@ -1,0 +1,1 @@
+"""SmartRecruiters public job listings adapter."""

@@ -1,0 +1,1 @@
+"""Workday public career pages adapter."""

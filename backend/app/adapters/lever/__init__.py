@@ -1,0 +1,1 @@
+"""Lever public Postings API adapter."""
