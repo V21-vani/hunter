@@ -10,6 +10,7 @@ from app.schemas.company_signal import (
 from app.schemas.internship import InternshipCreate, InternshipOut, InternshipUpdate
 from app.schemas.scan_log import ScanLogCreate, ScanLogOut, ScanLogUpdate
 from app.schemas.source import SourceCreate, SourceOut, SourceUpdate
+from app.schemas.social import SocialSignalCreate, SocialSignalOut, SocialSignalUpdate
 from app.schemas.verification import VerificationCreate, VerificationOut, VerificationUpdate
 
 __all__ = [
@@ -28,6 +29,9 @@ __all__ = [
     "ScanLogCreate",
     "ScanLogOut",
     "ScanLogUpdate",
+    "SocialSignalCreate",
+    "SocialSignalOut",
+    "SocialSignalUpdate",
     "SourceCreate",
     "SourceOut",
     "SourceUpdate",
